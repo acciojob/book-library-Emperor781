@@ -41,3 +41,11 @@ button{
 	background-color: #2ecc71;
 	border-radius: 5px;
 }
+
+.book div{
+	width: 200px;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	/* height */
+}
